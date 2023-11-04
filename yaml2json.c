@@ -1,9 +1,5 @@
 /*
- * Example libyaml parser.
- *
- * This is a simple libyaml parser example which scans and prints
- * the libyaml parser events.
- *
+ * Example libyaml parser, json generator.
  */
 #include <yaml.h>
 #include <stdio.h>
